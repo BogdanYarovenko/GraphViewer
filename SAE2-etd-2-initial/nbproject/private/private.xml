@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/bogdan/Documents/university/s2.02code/SAE2/SAE2-etd-2-initial/src/info/iut/sae2/properties/AbstractProperty.java</file>
+            <file>file:/Users/bogdan/Documents/university/s2.02code/SAE2/SAE2-etd-2-initial/src/info/iut/sae2/graphs/GraphLoader.java</file>
+            <file>file:/Users/bogdan/Documents/university/s2.02code/SAE2/SAE2-etd-2-initial/src/info/iut/sae2/graphs/Node.java</file>
+            <file>file:/Users/bogdan/Documents/university/s2.02code/SAE2/SAE2-etd-2-initial/src/info/iut/sae2/graphs/GraphDataStructure.java</file>
+            <file>file:/Users/bogdan/Documents/university/s2.02code/SAE2/SAE2-etd-2-initial/src/info/iut/sae2/graphs/AbstractGraph.java</file>
+            <file>file:/Users/bogdan/Documents/university/s2.02code/SAE2/SAE2-etd-2-initial/test/info/iut/sae2/algorithm/ForceDirectedIT.java</file>
+            <file>file:/Users/bogdan/Documents/university/s2.02code/SAE2/SAE2-etd-2-initial/src/info/iut/sae2/graphs/AdjacencyGraph.java</file>
+            <file>file:/Users/bogdan/Documents/university/s2.02code/SAE2/SAE2-etd-2-initial/test/info/iut/sae2/graphs/AbstractGraphTest.java</file>
+            <file>file:/Users/bogdan/Documents/university/s2.02code/SAE2/SAE2-etd-2-initial/src/info/iut/sae2/viewer/EdgeView.java</file>
+            <file>file:/Users/bogdan/Documents/university/s2.02code/SAE2/SAE2-etd-2-initial/src/info/iut/sae2/graphs/Graph.java</file>
+            <file>file:/Users/bogdan/Documents/university/s2.02code/SAE2/SAE2-etd-2-initial/src/info/iut/sae2/graphs/IEdge.java</file>
+            <file>file:/Users/bogdan/Documents/university/s2.02code/SAE2/SAE2-etd-2-initial/test/info/iut/sae2/algorithm/AutosizingIT.java</file>
+            <file>file:/Users/bogdan/Documents/university/s2.02code/SAE2/SAE2-etd-2-initial/src/info/iut/sae2/graphs/Size.java</file>
+        </group>
+    </open-files>
+</project-private>
